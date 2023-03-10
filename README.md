@@ -39,7 +39,7 @@ Checar o arquivo 'requirements.txt'
 3. Digite um nome para o arquivo e aperte Enter.
 4. A imagem PNG do código estará disponível na pasta codes.
 
-### Observação
+### Observações
 - Todos os códigos são salvos como imagens do formato PNG.
 - Um ID único será acrescentado ao nome do arquivo para evitar a substituição de arquivos com o mesmo nome.
 
