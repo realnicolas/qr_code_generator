@@ -13,7 +13,10 @@ This program generates a QR Code from a text entered by the user.
 ### Requirements
 Please check the file 'requirements.txt' 
 
-### Usage
+### How to install?
+You don't need to install anything.
+
+### How to use it?
 1. Open app.py and run the file.
 2. Enter a text that will be converted to a QR Code and press Enter.
 3. Enter a name for the file and press Enter.
@@ -32,6 +35,9 @@ Esse programa gera um código QR (QR Code) a partir de um texto digitado pelo us
 
 ### Requerimentos
 Checar o arquivo 'requirements.txt' 
+
+### Instalação
+Esse programa não necessita instalação.
 
 ### Como usar?
 1. Abra app.py e rodar o arquivo.
