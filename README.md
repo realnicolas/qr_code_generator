@@ -40,7 +40,7 @@ Checar o arquivo 'requirements.txt'
 Esse programa não necessita instalação.
 
 ### Como usar?
-1. Abra app.py e rodar o arquivo.
+1. Execute o arquivo app.py.
 2. Digite o texto que será convertido em QR Code e aperte Enter.
 3. Digite um nome para o arquivo e aperte Enter.
 4. A imagem PNG do código estará disponível na pasta codes.
